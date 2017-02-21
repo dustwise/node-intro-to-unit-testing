@@ -4,7 +4,7 @@ const adder = require('../adder');
 
 
 // unit tests for our `adder` function
-describe('adder', function() {
+describe('Adder Tests', function() {
 
   // test the normal case
   it('should add two numbers', function() {
